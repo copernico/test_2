@@ -1,0 +1,9 @@
+apiVersion: v1
+
+description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Suspendisse feugiat diam nec lacus fermentum semper. Nam sed convallis
+nulla, id efficitur tellus"
+
+references:
+  - "https://ref_1.com"
+  - "https://ref_2.com"
